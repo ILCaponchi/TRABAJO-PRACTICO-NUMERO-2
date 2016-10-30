@@ -1,0 +1,1826 @@
+fileFormatVersion: 2
+guid: 60fc44a16e0ba3740bba53e3b23798a6
+timeCreated: 1474642813
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sprite Batman_0
+    21300002: Sprite Batman_1
+    21300004: Sprite Batman_2
+    21300006: Sprite Batman_3
+    21300008: Sprite Batman_4
+    21300010: Sprite Batman_5
+    21300012: Sprite Batman_6
+    21300014: Sprite Batman_7
+    21300016: Sprite Batman_8
+    21300018: Sprite Batman_9
+    21300020: Sprite Batman_10
+    21300022: Sprite Batman_11
+    21300024: Sprite Batman_12
+    21300026: Sprite Batman_13
+    21300028: Sprite Batman_14
+    21300030: Sprite Batman_15
+    21300032: Sprite Batman_16
+    21300034: Sprite Batman_17
+    21300036: Sprite Batman_18
+    21300038: Sprite Batman_19
+    21300040: Sprite Batman_20
+    21300042: Sprite Batman_21
+    21300044: Sprite Batman_22
+    21300046: Sprite Batman_23
+    21300048: Sprite Batman_24
+    21300050: Sprite Batman_25
+    21300052: Sprite Batman_26
+    21300054: Sprite Batman_27
+    21300056: Sprite Batman_28
+    21300058: Sprite Batman_29
+    21300060: Sprite Batman_30
+    21300062: Sprite Batman_31
+    21300064: Sprite Batman_32
+    21300066: Sprite Batman_33
+    21300068: Sprite Batman_34
+    21300070: Sprite Batman_35
+    21300072: Sprite Batman_36
+    21300074: Sprite Batman_37
+    21300076: Sprite Batman_38
+    21300078: Sprite Batman_39
+    21300080: Sprite Batman_40
+    21300082: Sprite Batman_41
+    21300084: Sprite Batman_42
+    21300086: Sprite Batman_43
+    21300088: Sprite Batman_44
+    21300090: Sprite Batman_45
+    21300092: Sprite Batman_46
+    21300094: Sprite Batman_47
+    21300096: Sprite Batman_48
+    21300098: Sprite Batman_49
+    21300100: Sprite Batman_50
+    21300102: Sprite Batman_51
+    21300104: Sprite Batman_52
+    21300106: Sprite Batman_53
+    21300108: Sprite Batman_54
+    21300110: Sprite Batman_55
+    21300112: Sprite Batman_56
+    21300114: Sprite Batman_57
+    21300116: Sprite Batman_58
+    21300118: Sprite Batman_59
+    21300120: Sprite Batman_60
+    21300122: Sprite Batman_61
+    21300124: Sprite Batman_62
+    21300126: Sprite Batman_63
+    21300128: Sprite Batman_64
+    21300130: Sprite Batman_65
+    21300132: Sprite Batman_66
+    21300134: Sprite Batman_67
+    21300136: Sprite Batman_68
+    21300138: Sprite Batman_69
+    21300140: Sprite Batman_70
+    21300142: Sprite Batman_71
+    21300144: Sprite Batman_72
+    21300146: Sprite Batman_73
+    21300148: Sprite Batman_74
+    21300150: Sprite Batman_75
+    21300152: Sprite Batman_76
+    21300154: Sprite Batman_77
+    21300156: Sprite Batman_78
+    21300158: Sprite Batman_79
+    21300160: Sprite Batman_80
+    21300162: Sprite Batman_81
+    21300164: Sprite Batman_82
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sprite Batman_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1504
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: -18}
+        - {x: 17, y: -18}
+        - {x: 18, y: -19}
+        - {x: 15, y: -23}
+        - {x: 15, y: -25}
+        - {x: 18, y: -29}
+        - {x: 21, y: -31}
+        - {x: 24, y: -31}
+        - {x: 31, y: -21}
+        - {x: 31, y: 6}
+        - {x: 14, y: 31}
+        - {x: 3, y: 31}
+        - {x: -16, y: 22}
+        - {x: -31, y: 1}
+        - {x: -31, y: -31}
+        - {x: 18, y: -31}
+        - {x: 18, y: -30}
+        - {x: 14, y: -24}
+    - name: Sprite Batman_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1504
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 31}
+        - {x: -31, y: 23}
+        - {x: -31, y: -26}
+        - {x: -26, y: -31}
+        - {x: 31, y: -31}
+        - {x: 31, y: 12}
+        - {x: 22, y: 31}
+    - name: Sprite Batman_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1504
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 31}
+        - {x: -16, y: 30}
+        - {x: -31, y: 9}
+        - {x: -31, y: -22}
+        - {x: -25, y: -26}
+        - {x: -22, y: -26}
+        - {x: -21, y: -23}
+        - {x: -18, y: -31}
+        - {x: 31, y: -31}
+        - {x: 31, y: 21}
+        - {x: 28, y: 31}
+    - name: Sprite Batman_3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1504
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: -31}
+        - {x: 31, y: -24}
+        - {x: 31, y: 14}
+        - {x: 19, y: 31}
+        - {x: -5, y: 31}
+        - {x: -16, y: 29}
+        - {x: -31, y: 2}
+        - {x: -31, y: -31}
+        - {x: 19, y: -31}
+        - {x: 18, y: -30}
+        - {x: 14, y: -27}
+        - {x: 21, y: -31}
+    - name: Sprite Batman_4
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1504
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 30.5}
+        - {x: 4, y: 30.5}
+        - {x: -30, y: -0.5}
+        - {x: -30, y: -24.5}
+        - {x: -27, y: -25.5}
+        - {x: -23, y: -27.5}
+        - {x: -22, y: -30.5}
+        - {x: 30, y: -30.5}
+        - {x: 30, y: 25.5}
+    - name: Sprite Batman_5
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1504
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.5, y: 22}
+        - {x: 19.5, y: 30}
+        - {x: 6.5, y: 30}
+        - {x: -26.5, y: 11}
+        - {x: -34.5, y: 2}
+        - {x: -34.5, y: -26}
+        - {x: -24.5, y: -30}
+        - {x: 24.5, y: -30}
+        - {x: 34.5, y: -20}
+    - name: Sprite Batman_6
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1504
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: -26}
+        - {x: 17, y: -30}
+        - {x: 24, y: -30}
+        - {x: 35, y: -17}
+        - {x: 35, y: 25}
+        - {x: 21, y: 30}
+        - {x: 2, y: 30}
+        - {x: -35, y: 15}
+        - {x: -35, y: -22}
+        - {x: -30, y: -30}
+        - {x: 16, y: -30}
+    - name: Sprite Batman_7
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1504
+        width: 69
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: -22.5}
+        - {x: 17.5, y: -28.5}
+        - {x: 18.5, y: -29.5}
+        - {x: 23.5, y: -29.5}
+        - {x: 34.5, y: -14.5}
+        - {x: 34.5, y: 24.5}
+        - {x: 21.5, y: 29.5}
+        - {x: -12.5, y: 29.5}
+        - {x: -34.5, y: 16.5}
+        - {x: -34.5, y: -29.5}
+        - {x: 16.5, y: -29.5}
+        - {x: 17.5, y: -28.5}
+        - {x: 15.5, y: -24.5}
+        - {x: 13.5, y: -21.5}
+    - name: Sprite Batman_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1432
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: -16}
+        - {x: 35, y: 21}
+        - {x: 17, y: 29}
+        - {x: 1, y: 29}
+        - {x: -34, y: 19}
+        - {x: -35, y: 17}
+        - {x: -35, y: -29}
+        - {x: -21, y: -29}
+        - {x: -21, y: -28}
+        - {x: -13, y: -29}
+        - {x: 27, y: -29}
+    - name: Sprite Batman_9
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1432
+        width: 70
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 28.5}
+        - {x: -28, y: 28.5}
+        - {x: -35, y: 14.5}
+        - {x: -35, y: -28.5}
+        - {x: 34, y: -28.5}
+        - {x: 35, y: -27.5}
+        - {x: 35, y: 13.5}
+    - name: Sprite Batman_10
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1432
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 28.5}
+        - {x: -22, y: 19.5}
+        - {x: -34, y: 6.5}
+        - {x: -34, y: -27.5}
+        - {x: -31, y: -28.5}
+        - {x: 34, y: -28.5}
+        - {x: 34, y: 19.5}
+        - {x: 29, y: 28.5}
+    - name: Sprite Batman_11
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1432
+        width: 70
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 28.5}
+        - {x: -35, y: 14.5}
+        - {x: -35, y: -25.5}
+        - {x: -34, y: -28.5}
+        - {x: 35, y: -28.5}
+        - {x: 35, y: 19.5}
+        - {x: 25, y: 28.5}
+    - name: Sprite Batman_12
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1432
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.5, y: 15.5}
+        - {x: 27.5, y: 28.5}
+        - {x: 2.5, y: 28.5}
+        - {x: -15.5, y: 22.5}
+        - {x: -33.5, y: 8.5}
+        - {x: -33.5, y: -28.5}
+        - {x: 33.5, y: -28.5}
+    - name: Sprite Batman_13
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1432
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 28.5}
+        - {x: -34, y: 17.5}
+        - {x: -34, y: -28.5}
+        - {x: 34, y: -28.5}
+        - {x: 34, y: 17.5}
+        - {x: 27, y: 28.5}
+    - name: Sprite Batman_14
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1432
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: 13.5}
+        - {x: 25, y: 28.5}
+        - {x: 10, y: 28.5}
+        - {x: -24, y: 15.5}
+        - {x: -34, y: 6.5}
+        - {x: -34, y: -21.5}
+        - {x: -28, y: -28.5}
+        - {x: 34, y: -28.5}
+    - name: Sprite Batman_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1360
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 28.5}
+        - {x: -27.5, y: 14.5}
+        - {x: -33.5, y: 3.5}
+        - {x: -33.5, y: -26.5}
+        - {x: -30.5, y: -28.5}
+        - {x: 33.5, y: -28.5}
+        - {x: 33.5, y: 15.5}
+        - {x: 27.5, y: 28.5}
+    - name: Sprite Batman_16
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1360
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 28.5}
+        - {x: -30, y: 28.5}
+        - {x: -34, y: 18.5}
+        - {x: -34, y: -28.5}
+        - {x: 33, y: -28.5}
+        - {x: 34, y: -27.5}
+        - {x: 34, y: 21.5}
+    - name: Sprite Batman_17
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1360
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 28.5}
+        - {x: -25, y: 18.5}
+        - {x: -34, y: 12.5}
+        - {x: -34, y: -23.5}
+        - {x: -33, y: -28.5}
+        - {x: 34, y: -28.5}
+        - {x: 34, y: 22.5}
+        - {x: 29, y: 28.5}
+    - name: Sprite Batman_18
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1360
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.5, y: 19.5}
+        - {x: 29.5, y: 28.5}
+        - {x: -10.5, y: 28.5}
+        - {x: -33.5, y: 3.5}
+        - {x: -33.5, y: -26.5}
+        - {x: -30.5, y: -28.5}
+        - {x: -12.5, y: -28.5}
+        - {x: 1.5, y: -24.5}
+        - {x: 6.5, y: -28.5}
+        - {x: 33.5, y: -28.5}
+    - name: Sprite Batman_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1360
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 28.5}
+        - {x: -34, y: 20.5}
+        - {x: -34, y: -28.5}
+        - {x: 34, y: -28.5}
+        - {x: 34, y: 22.5}
+        - {x: 24, y: 28.5}
+    - name: Sprite Batman_20
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1360
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: 18.5}
+        - {x: 23, y: 28.5}
+        - {x: 5, y: 28.5}
+        - {x: -33, y: 21.5}
+        - {x: -34, y: 17.5}
+        - {x: -34, y: -26.5}
+        - {x: -29, y: -28.5}
+        - {x: 34, y: -28.5}
+    - name: Sprite Batman_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1288
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: -9.5}
+        - {x: 23, y: 30.5}
+        - {x: 11, y: 30.5}
+        - {x: -14, y: 18.5}
+        - {x: -31, y: 2.5}
+        - {x: -31, y: -30.5}
+        - {x: 10, y: -30.5}
+        - {x: 10, y: -28.5}
+        - {x: 16, y: -30.5}
+        - {x: 31, y: -30.5}
+    - name: Sprite Batman_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1288
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 31}
+        - {x: -13.5, y: 20}
+        - {x: -26.5, y: 1}
+        - {x: -26.5, y: -31}
+        - {x: 23.5, y: -31}
+        - {x: 26.5, y: -12}
+        - {x: 26.5, y: 31}
+    - name: Sprite Batman_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1288
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 30.5}
+        - {x: -27, y: 8.5}
+        - {x: -27, y: -30.5}
+        - {x: 27, y: -30.5}
+        - {x: 27, y: 28.5}
+        - {x: 26, y: 30.5}
+    - name: Sprite Batman_24
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1288
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.5, y: 9.5}
+        - {x: 22.5, y: 30.5}
+        - {x: 9.5, y: 30.5}
+        - {x: -9.5, y: 21.5}
+        - {x: -30.5, y: 11.5}
+        - {x: -30.5, y: -30.5}
+        - {x: 30.5, y: -30.5}
+        - {x: 30.5, y: -20.5}
+    - name: Sprite Batman_25
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1288
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 31}
+        - {x: -22, y: 15}
+        - {x: -26, y: 8}
+        - {x: -26, y: -31}
+        - {x: 26, y: -31}
+        - {x: 26, y: 31}
+    - name: Sprite Batman_26
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1288
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 30.5}
+        - {x: -35, y: 18.5}
+        - {x: -35, y: -30.5}
+        - {x: 23, y: -30.5}
+        - {x: 23, y: 6.5}
+        - {x: 21, y: 30.5}
+      - - {x: 30, y: -19.5}
+        - {x: 29, y: -22.5}
+        - {x: 31, y: -27.5}
+        - {x: 34, y: -30.5}
+        - {x: 35, y: -30.5}
+        - {x: 35, y: -22.5}
+        - {x: 32, y: -19.5}
+    - name: Sprite Batman_27
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1216
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: 15}
+        - {x: 19.5, y: 12}
+        - {x: 19.5, y: 9}
+        - {x: 19.5, y: 11}
+        - {x: 15.5, y: 25}
+        - {x: 10.5, y: 27}
+        - {x: 7.5, y: 27}
+        - {x: -13.5, y: 17}
+        - {x: -29.5, y: 7}
+        - {x: -29.5, y: -28}
+        - {x: -26.5, y: -37}
+        - {x: -25.5, y: -37}
+        - {x: -20.5, y: -32}
+        - {x: -19.5, y: -29}
+        - {x: -16.5, y: -37}
+        - {x: 29.5, y: -37}
+        - {x: 29.5, y: 15}
+        - {x: 27.5, y: 16}
+      - - {x: 25.5, y: 37}
+        - {x: 27.5, y: 34}
+        - {x: 29.5, y: 35}
+        - {x: 29.5, y: 37}
+    - name: Sprite Batman_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1216
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: -18}
+        - {x: 12.5, y: -18}
+        - {x: 13.5, y: -19}
+        - {x: 10.5, y: -23}
+        - {x: 10.5, y: -25}
+        - {x: 13.5, y: -29}
+        - {x: 15.5, y: -31}
+        - {x: 27.5, y: -31}
+        - {x: 35.5, y: -16}
+        - {x: 35.5, y: 31}
+        - {x: -34.5, y: 31}
+        - {x: -35.5, y: 22}
+        - {x: -35.5, y: -31}
+        - {x: 13.5, y: -31}
+        - {x: 13.5, y: -30}
+        - {x: 9.5, y: -24}
+    - name: Sprite Batman_29
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1216
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 31}
+        - {x: -34.5, y: 20}
+        - {x: -35.5, y: 13}
+        - {x: -35.5, y: -29}
+        - {x: -32.5, y: -31}
+        - {x: 31.5, y: -31}
+        - {x: 35.5, y: -6}
+        - {x: 35.5, y: 25}
+        - {x: 13.5, y: 31}
+    - name: Sprite Batman_30
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1216
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.5, y: 4}
+        - {x: 35.5, y: 21}
+        - {x: 10.5, y: 31}
+        - {x: -4.5, y: 31}
+        - {x: -16.5, y: 23}
+        - {x: -35.5, y: 8}
+        - {x: -35.5, y: -22}
+        - {x: -29.5, y: -26}
+        - {x: -26.5, y: -26}
+        - {x: -25.5, y: -23}
+        - {x: -22.5, y: -31}
+        - {x: 25.5, y: -31}
+        - {x: 29.5, y: -28}
+        - {x: 24.5, y: -19}
+        - {x: 21.5, y: -18}
+    - name: Sprite Batman_31
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1216
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 31}
+        - {x: -18.5, y: 27}
+        - {x: -35.5, y: -2}
+        - {x: -35.5, y: -31}
+        - {x: 35.5, y: -31}
+        - {x: 35.5, y: 29}
+        - {x: 26.5, y: 31}
+    - name: Sprite Batman_32
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1216
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: -18}
+        - {x: 18.5, y: -18}
+        - {x: 19.5, y: -19}
+        - {x: 16.5, y: -23}
+        - {x: 16.5, y: -25}
+        - {x: 19.5, y: -29}
+        - {x: 21.5, y: -31}
+        - {x: 23.5, y: -31}
+        - {x: 29.5, y: -28}
+        - {x: 29.5, y: 21}
+        - {x: 27.5, y: 22}
+        - {x: 22.5, y: 21}
+        - {x: 19.5, y: 18}
+        - {x: 19.5, y: 15}
+        - {x: 19.5, y: 17}
+        - {x: 15.5, y: 31}
+        - {x: 4.5, y: 31}
+        - {x: -14.5, y: 22}
+        - {x: -29.5, y: 1}
+        - {x: -29.5, y: -31}
+        - {x: 19.5, y: -31}
+        - {x: 19.5, y: -30}
+        - {x: 15.5, y: -24}
+    - name: Sprite Batman_33
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1216
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: 21}
+        - {x: 19.5, y: 18}
+        - {x: 19.5, y: 15}
+        - {x: 19.5, y: 17}
+        - {x: 15.5, y: 31}
+        - {x: -0.5, y: 31}
+        - {x: -15.5, y: 26}
+        - {x: -29.5, y: 9}
+        - {x: -29.5, y: -24}
+        - {x: -21.5, y: -30}
+        - {x: -19.5, y: -31}
+        - {x: 29.5, y: -31}
+        - {x: 29.5, y: 21}
+        - {x: 28.5, y: 24}
+    - name: Sprite Batman_34
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1216
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.5, y: -31}
+        - {x: 29.5, y: 26}
+        - {x: 22.5, y: 21}
+        - {x: 19.5, y: 18}
+        - {x: 19.5, y: 15}
+        - {x: 19.5, y: 17}
+        - {x: 15.5, y: 31}
+        - {x: 1.5, y: 31}
+        - {x: -11.5, y: 26}
+        - {x: -21.5, y: 12}
+        - {x: -29.5, y: -1}
+        - {x: -29.5, y: -31}
+        - {x: 20.5, y: -31}
+        - {x: 19.5, y: -30}
+        - {x: 15.5, y: -27}
+        - {x: 22.5, y: -31}
+    - name: Sprite Batman_35
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1144
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 18.5}
+        - {x: 24, y: 30.5}
+        - {x: 1, y: 30.5}
+        - {x: -32, y: 14.5}
+        - {x: -36, y: 3.5}
+        - {x: -36, y: -30.5}
+        - {x: 30, y: -30.5}
+        - {x: 29, y: -24.5}
+        - {x: 36, y: -0.5}
+    - name: Sprite Batman_36
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1144
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 24}
+        - {x: 30, y: 31}
+        - {x: -7, y: 31}
+        - {x: -24, y: 20}
+        - {x: -36, y: 1}
+        - {x: -36, y: -31}
+        - {x: 14, y: -31}
+        - {x: 14, y: -29}
+        - {x: 12, y: -26}
+        - {x: 36, y: -7}
+    - name: Sprite Batman_37
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1144
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 30.5}
+        - {x: -30, y: 26.5}
+        - {x: -36, y: 10.5}
+        - {x: -36, y: -28.5}
+        - {x: -32, y: -30.5}
+        - {x: 25, y: -30.5}
+        - {x: 36, y: -11.5}
+        - {x: 36, y: 20.5}
+        - {x: 27, y: 30.5}
+    - name: Sprite Batman_38
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1144
+        width: 71
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: -6.5}
+        - {x: 35.5, y: 6.5}
+        - {x: 35.5, y: 20.5}
+        - {x: 18.5, y: 30.5}
+        - {x: 0.5, y: 30.5}
+        - {x: -35.5, y: 12.5}
+        - {x: -35.5, y: -30.5}
+        - {x: 27.5, y: -30.5}
+        - {x: 27.5, y: -25.5}
+        - {x: 25.5, y: -23.5}
+    - name: Sprite Batman_39
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1144
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 31}
+        - {x: -20, y: 21}
+        - {x: -36, y: 7}
+        - {x: -36, y: -31}
+        - {x: 23, y: -31}
+        - {x: 36, y: 2}
+        - {x: 36, y: 19}
+        - {x: 22, y: 31}
+    - name: Sprite Batman_40
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1144
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 30.5}
+        - {x: -32, y: 25.5}
+        - {x: -36, y: 10.5}
+        - {x: -36, y: -30.5}
+        - {x: 32, y: -30.5}
+        - {x: 36, y: -19.5}
+        - {x: 36, y: 18.5}
+        - {x: 26, y: 30.5}
+    - name: Sprite Batman_41
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1072
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 24.5}
+        - {x: 23, y: 20.5}
+        - {x: 22, y: 25.5}
+        - {x: 21, y: 29.5}
+        - {x: 20, y: 30.5}
+        - {x: 6, y: 30.5}
+        - {x: -32, y: 2.5}
+        - {x: -32, y: -29.5}
+        - {x: -31, y: -30.5}
+        - {x: 32, y: -30.5}
+        - {x: 32, y: 28.5}
+    - name: Sprite Batman_42
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1072
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: 5}
+        - {x: 32, y: 8}
+        - {x: 32, y: 24}
+        - {x: 30, y: 25}
+        - {x: 27, y: 25}
+        - {x: 23, y: 21}
+        - {x: 22, y: 26}
+        - {x: 21, y: 30}
+        - {x: 21, y: 31}
+        - {x: 11, y: 31}
+        - {x: -22, y: 21}
+        - {x: -32, y: 2}
+        - {x: -32, y: -31}
+        - {x: 18, y: -31}
+        - {x: 18, y: -29}
+        - {x: 16, y: -26}
+        - {x: 19, y: -15}
+    - name: Sprite Batman_43
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1072
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 24.5}
+        - {x: 23, y: 20.5}
+        - {x: 22, y: 30.5}
+        - {x: -2, y: 30.5}
+        - {x: -25, y: 26.5}
+        - {x: -32, y: 10.5}
+        - {x: -32, y: -30.5}
+        - {x: 30, y: -30.5}
+        - {x: 32, y: -19.5}
+        - {x: 32, y: 28.5}
+    - name: Sprite Batman_44
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1072
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 30.5}
+        - {x: -31.5, y: 16.5}
+        - {x: -31.5, y: -30.5}
+        - {x: 31.5, y: -30.5}
+        - {x: 31.5, y: 30.5}
+    - name: Sprite Batman_45
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1072
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 31}
+        - {x: -32, y: 14}
+        - {x: -32, y: -31}
+        - {x: 23, y: -31}
+        - {x: 32, y: 7}
+        - {x: 32, y: 26}
+        - {x: 24, y: 31}
+    - name: Sprite Batman_46
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1072
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 24.5}
+        - {x: 23, y: 20.5}
+        - {x: 22, y: 25.5}
+        - {x: 21, y: 29.5}
+        - {x: 20, y: 30.5}
+        - {x: 8, y: 30.5}
+        - {x: -26, y: 25.5}
+        - {x: -32, y: 10.5}
+        - {x: -32, y: -30.5}
+        - {x: 32, y: -30.5}
+        - {x: 32, y: 23.5}
+        - {x: 30, y: 24.5}
+    - name: Sprite Batman_47
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1072
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 31}
+        - {x: 5, y: 31}
+        - {x: -22, y: 10}
+        - {x: -22, y: -25}
+        - {x: -21, y: -31}
+        - {x: 22, y: -31}
+        - {x: 22, y: 12}
+    - name: Sprite Batman_48
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1000
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 0}
+        - {x: -25.5, y: -30}
+        - {x: 25.5, y: -30}
+        - {x: 25.5, y: 30}
+        - {x: -2.5, y: 30}
+        - {x: -14.5, y: 27}
+    - name: Sprite Batman_49
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1000
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 30}
+        - {x: -6.5, y: 30}
+        - {x: -32.5, y: 5}
+        - {x: -32.5, y: -28}
+        - {x: -31.5, y: -30}
+        - {x: 15.5, y: -30}
+        - {x: 32.5, y: -20}
+        - {x: 32.5, y: 5}
+        - {x: 28.5, y: 24}
+    - name: Sprite Batman_50
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1000
+        width: 72
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 30}
+        - {x: -35, y: 23}
+        - {x: -36, y: 17}
+        - {x: -36, y: -30}
+        - {x: 28, y: -30}
+        - {x: 36, y: -26}
+        - {x: 36, y: 12}
+        - {x: 13, y: 30}
+    - name: Sprite Batman_51
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1000
+        width: 51
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 30.5}
+        - {x: -25.5, y: 26.5}
+        - {x: -25.5, y: -26.5}
+        - {x: -16.5, y: -29.5}
+        - {x: -13.5, y: -26.5}
+        - {x: -7.5, y: -30.5}
+        - {x: 15.5, y: -30.5}
+        - {x: 23.5, y: -10.5}
+        - {x: 25.5, y: 1.5}
+        - {x: 25.5, y: 30.5}
+    - name: Sprite Batman_52
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1047
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite Batman_53
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 928
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 31}
+        - {x: 4, y: 31}
+        - {x: -33, y: 6}
+        - {x: -33, y: -31}
+        - {x: 30, y: -31}
+        - {x: 33, y: -18}
+        - {x: 33, y: 25}
+    - name: Sprite Batman_54
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 928
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 31}
+        - {x: -28, y: 4}
+        - {x: -28, y: -28}
+        - {x: -27, y: -31}
+        - {x: 24, y: -31}
+        - {x: 28, y: -18}
+        - {x: 28, y: 27}
+        - {x: 23, y: 31}
+    - name: Sprite Batman_55
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 928
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 30.5}
+        - {x: -32, y: 11.5}
+        - {x: -32, y: 8.5}
+        - {x: -30, y: 0.5}
+        - {x: -25, y: -4.5}
+        - {x: -29, y: -7.5}
+        - {x: -31, y: -9.5}
+        - {x: -32, y: -11.5}
+        - {x: -32, y: -25.5}
+        - {x: -27, y: -30.5}
+        - {x: 30, y: -30.5}
+        - {x: 32, y: -14.5}
+        - {x: 32, y: 30.5}
+    - name: Sprite Batman_56
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 928
+        width: 71
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 30}
+        - {x: -29.5, y: 17}
+        - {x: -35.5, y: -13}
+        - {x: -35.5, y: -30}
+        - {x: 33.5, y: -30}
+        - {x: 35.5, y: -24}
+        - {x: 35.5, y: 28}
+        - {x: 31.5, y: 30}
+    - name: Sprite Batman_57
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 928
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 30}
+        - {x: -2, y: 30}
+        - {x: -34, y: 1}
+        - {x: -34, y: -30}
+        - {x: 30, y: -30}
+        - {x: 34, y: -14}
+        - {x: 34, y: 23}
+        - {x: 25, y: 28}
+    - name: Sprite Batman_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 928
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.5, y: 30}
+        - {x: -5.5, y: 30}
+        - {x: -34.5, y: 0}
+        - {x: -34.5, y: -30}
+        - {x: 33.5, y: -30}
+        - {x: 34.5, y: -19}
+        - {x: 34.5, y: 22}
+        - {x: 26.5, y: 29}
+    - name: Sprite Batman_59
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 768
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 26.5}
+        - {x: -24.5, y: -14.5}
+        - {x: -24.5, y: -26.5}
+        - {x: 12.5, y: -26.5}
+        - {x: 24.5, y: -17.5}
+        - {x: 24.5, y: 19.5}
+        - {x: 22.5, y: 26.5}
+    - name: Sprite Batman_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 8.5}
+        - {x: -23, y: -31.5}
+        - {x: 12, y: -31.5}
+        - {x: 23, y: -14.5}
+        - {x: 23, y: 31.5}
+        - {x: -13, y: 31.5}
+    - name: Sprite Batman_61
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 768
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 26.5}
+        - {x: -8.5, y: 19.5}
+        - {x: -16.5, y: 10.5}
+        - {x: -23.5, y: 2.5}
+        - {x: -23.5, y: -26.5}
+        - {x: -3.5, y: -26.5}
+        - {x: 20.5, y: -18.5}
+        - {x: 23.5, y: -5.5}
+        - {x: 23.5, y: 26.5}
+    - name: Sprite Batman_62
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 768
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 26.5}
+        - {x: -21, y: 11.5}
+        - {x: -27, y: -5.5}
+        - {x: -27, y: -26.5}
+        - {x: 27, y: -26.5}
+        - {x: 27, y: 26.5}
+    - name: Sprite Batman_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 768
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: -12.5}
+        - {x: 30, y: 27.5}
+        - {x: -15, y: 27.5}
+        - {x: -30, y: 17.5}
+        - {x: -30, y: -21.5}
+        - {x: -26, y: -23.5}
+        - {x: -24, y: -27.5}
+        - {x: 10, y: -27.5}
+        - {x: 10, y: -21.5}
+        - {x: 24, y: -27.5}
+        - {x: 27, y: -27.5}
+    - name: Sprite Batman_64
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 768
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 35.5}
+        - {x: -32, y: 28.5}
+        - {x: -32, y: 7.5}
+        - {x: -30, y: 7.5}
+        - {x: -19, y: 6.5}
+        - {x: -1, y: -35.5}
+        - {x: 18, y: -35.5}
+        - {x: 32, y: 1.5}
+        - {x: 32, y: 30.5}
+        - {x: 5, y: 35.5}
+    - name: Sprite Batman_65
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 69
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 24}
+        - {x: -23.5, y: 12}
+        - {x: -34.5, y: -2}
+        - {x: -34.5, y: -11}
+        - {x: -29.5, y: -14}
+        - {x: -13.5, y: -13}
+        - {x: 1.5, y: -24}
+        - {x: 23.5, y: -24}
+        - {x: 32.5, y: -22}
+        - {x: 34.5, y: -8}
+        - {x: 34.5, y: 24}
+    - name: Sprite Batman_66
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 768
+        width: 72
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 22.5}
+        - {x: -36, y: 6.5}
+        - {x: -36, y: -18.5}
+        - {x: -28, y: -22.5}
+        - {x: 25, y: -22.5}
+        - {x: 33, y: -21.5}
+        - {x: 36, y: -3.5}
+        - {x: 36, y: 22.5}
+    - name: Sprite Batman_67
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 696
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 20}
+        - {x: -20, y: 7}
+        - {x: -27, y: -13}
+        - {x: -27, y: -20}
+        - {x: 19, y: -20}
+        - {x: 27, y: -7}
+        - {x: 27, y: 20}
+    - name: Sprite Batman_68
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 696
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 21.5}
+        - {x: -13, y: 14.5}
+        - {x: -29, y: -17.5}
+        - {x: -29, y: -21.5}
+        - {x: 29, y: -21.5}
+        - {x: 29, y: 21.5}
+    - name: Sprite Batman_69
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 696
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: -20.5}
+        - {x: 18, y: -25.5}
+        - {x: 21, y: -28.5}
+        - {x: 28, y: -26.5}
+        - {x: 28, y: 25.5}
+        - {x: 21, y: 28.5}
+        - {x: 2, y: 28.5}
+        - {x: -15, y: 22.5}
+        - {x: -28, y: -0.5}
+        - {x: -28, y: -28.5}
+        - {x: 20, y: -28.5}
+        - {x: 18, y: -26.5}
+        - {x: 16, y: -23.5}
+        - {x: 14, y: -22.5}
+    - name: Sprite Batman_70
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 696
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 26.5}
+        - {x: -27.5, y: 16.5}
+        - {x: -27.5, y: -26.5}
+        - {x: 27.5, y: -26.5}
+        - {x: 27.5, y: 19.5}
+        - {x: 17.5, y: 26.5}
+    - name: Sprite Batman_71
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 696
+        width: 72
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 25}
+        - {x: -36, y: 16}
+        - {x: -36, y: -25}
+        - {x: -3, y: -25}
+        - {x: 36, y: -10}
+        - {x: 36, y: 21}
+        - {x: 30, y: 25}
+    - name: Sprite Batman_72
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 632
+        width: 72
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 24.5}
+        - {x: -16, y: 24.5}
+        - {x: -36, y: 7.5}
+        - {x: -36, y: -24.5}
+        - {x: 27, y: -24.5}
+        - {x: 36, y: -15.5}
+        - {x: 36, y: -0.5}
+    - name: Sprite Batman_73
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 632
+        width: 68
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 23.5}
+        - {x: -34, y: 2.5}
+        - {x: -34, y: -23.5}
+        - {x: 27, y: -23.5}
+        - {x: 34, y: -17.5}
+        - {x: 34, y: 5.5}
+        - {x: 29, y: 23.5}
+    - name: Sprite Batman_74
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 632
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 23.5}
+        - {x: -5, y: 23.5}
+        - {x: -24, y: 7.5}
+        - {x: -32, y: -18.5}
+        - {x: -32, y: -23.5}
+        - {x: 23, y: -23.5}
+        - {x: 32, y: -18.5}
+        - {x: 32, y: 5.5}
+        - {x: 31, y: 7.5}
+    - name: Sprite Batman_75
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 632
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 23.5}
+        - {x: -8, y: 23.5}
+        - {x: -25, y: 12.5}
+        - {x: -32, y: -10.5}
+        - {x: -32, y: -23.5}
+        - {x: 23, y: -23.5}
+        - {x: 32, y: -18.5}
+        - {x: 32, y: 5.5}
+        - {x: 31, y: 7.5}
+    - name: Sprite Batman_76
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 632
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 23.5}
+        - {x: -23, y: 18.5}
+        - {x: -32, y: -8.5}
+        - {x: -32, y: -23.5}
+        - {x: 24, y: -23.5}
+        - {x: 32, y: -18.5}
+        - {x: 32, y: -1.5}
+        - {x: 17, y: 23.5}
+    - name: Sprite Batman_77
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 632
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 23.5}
+        - {x: 2, y: 23.5}
+        - {x: -22, y: 10.5}
+        - {x: -36, y: -15.5}
+        - {x: -36, y: -23.5}
+        - {x: 27, y: -23.5}
+        - {x: 36, y: -12.5}
+        - {x: 36, y: 11.5}
+    - name: Sprite Batman_78
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 632
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 23.5}
+        - {x: -21, y: 10.5}
+        - {x: -36, y: -15.5}
+        - {x: -36, y: -23.5}
+        - {x: 27, y: -23.5}
+        - {x: 36, y: -12.5}
+        - {x: 36, y: 12.5}
+        - {x: 17, y: 23.5}
+    - name: Sprite Batman_79
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 568
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 55, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 27.5}
+        - {x: -23, y: 14.5}
+        - {x: -33, y: -11.5}
+        - {x: -33, y: -21.5}
+        - {x: 27, y: -21.5}
+        - {x: 33, y: -4.5}
+        - {x: 33, y: 24.5}
+        - {x: 28, y: 27.5}
+    - name: Sprite Batman_80
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 576
+        width: 69
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 23.5}
+        - {x: -34.5, y: 11.5}
+        - {x: -34.5, y: -23.5}
+        - {x: 26.5, y: -23.5}
+        - {x: 34.5, y: -7.5}
+        - {x: 34.5, y: 23.5}
+    - name: Sprite Batman_81
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 576
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 9.5}
+        - {x: 21, y: 7.5}
+        - {x: 21, y: 23.5}
+        - {x: -3, y: 23.5}
+        - {x: -14, y: 21.5}
+        - {x: -30, y: -4.5}
+        - {x: -30, y: -23.5}
+        - {x: 23, y: -23.5}
+        - {x: 30, y: -6.5}
+        - {x: 30, y: 12.5}
+        - {x: 24, y: 15.5}
+    - name: Sprite Batman_82
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 576
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 13.5}
+        - {x: 23, y: 9.5}
+        - {x: 23, y: 7.5}
+        - {x: 23, y: 9.5}
+        - {x: 19, y: 23.5}
+        - {x: 6, y: 23.5}
+        - {x: -8, y: 16.5}
+        - {x: -32, y: -17.5}
+        - {x: -32, y: -23.5}
+        - {x: 25, y: -23.5}
+        - {x: 32, y: -10.5}
+        - {x: 32, y: 17.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,619 @@
+fileFormatVersion: 2
+guid: a42e2cc07c9c9ff488cd25bfeafc69c9
+timeCreated: 1477847929
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SNES_deathsuperman_superman_0
+    21300002: SNES_deathsuperman_superman_1
+    21300004: SNES_deathsuperman_superman_2
+    21300006: SNES_deathsuperman_superman_3
+    21300008: SNES_deathsuperman_superman_4
+    21300010: SNES_deathsuperman_superman_5
+    21300012: SNES_deathsuperman_superman_6
+    21300014: SNES_deathsuperman_superman_7
+    21300016: SNES_deathsuperman_superman_8
+    21300018: SNES_deathsuperman_superman_9
+    21300020: SNES_deathsuperman_superman_10
+    21300022: SNES_deathsuperman_superman_11
+    21300024: SNES_deathsuperman_superman_12
+    21300026: SNES_deathsuperman_superman_13
+    21300028: SNES_deathsuperman_superman_14
+    21300030: SNES_deathsuperman_superman_15
+    21300032: SNES_deathsuperman_superman_16
+    21300034: SNES_deathsuperman_superman_17
+    21300036: SNES_deathsuperman_superman_18
+    21300038: SNES_deathsuperman_superman_19
+    21300040: SNES_deathsuperman_superman_20
+    21300042: SNES_deathsuperman_superman_21
+    21300044: SNES_deathsuperman_superman_22
+    21300046: SNES_deathsuperman_superman_23
+    21300048: SNES_deathsuperman_superman_24
+    21300050: SNES_deathsuperman_superman_25
+    21300052: SNES_deathsuperman_superman_26
+    21300054: SNES_deathsuperman_superman_27
+    21300056: SNES_deathsuperman_superman_28
+    21300058: SNES_deathsuperman_superman_29
+    21300060: SNES_deathsuperman_superman_30
+    21300062: SNES_deathsuperman_superman_31
+    21300064: SNES_deathsuperman_superman_32
+    21300066: SNES_deathsuperman_superman_33
+    21300068: SNES_deathsuperman_superman_34
+    21300070: SNES_deathsuperman_superman_35
+    21300072: SNES_deathsuperman_superman_36
+    21300074: SNES_deathsuperman_superman_37
+    21300076: SNES_deathsuperman_superman_38
+    21300078: SNES_deathsuperman_superman_39
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES_deathsuperman_superman_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 485
+        width: 73
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES_deathsuperman_superman_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 485
+        width: 80
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES_deathsuperman_superman_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 485
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES_deathsuperman_superman_3
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 441
+        width: 67
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES_deathsuperman_superman_4
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 441
+        width: 67
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES_deathsuperman_superman_5
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 458
+        width: 57
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES_deathsuperman_superman_6
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 496
+        width: 81
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES_deathsuperman_superman_7
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 467
+        width: 63
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES_deathsuperman_superman_8
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 466
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES_deathsuperman_superman_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 394
+        width: 62
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES_deathsuperman_superman_10
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 395
+        width: 63
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES_deathsuperman_superman_11
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 394
+        width: 61
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES_deathsuperman_superman_12
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 375
+        width: 64
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES_deathsuperman_superman_13
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 400
+        width: 85
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES_deathsuperman_superman_14
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 382
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES_deathsuperman_superman_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 301
+        width: 67
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES_deathsuperman_superman_16
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 300
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES_deathsuperman_superman_17
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 297
+        width: 67
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES_deathsuperman_superman_18
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 296
+        width: 63
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES_deathsuperman_superman_19
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 292
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES_deathsuperman_superman_20
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 291
+        width: 59
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES_deathsuperman_superman_21
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 288
+        width: 73
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES_deathsuperman_superman_22
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 197
+        width: 59
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES_deathsuperman_superman_23
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 195
+        width: 77
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES_deathsuperman_superman_24
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 198
+        width: 68
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES_deathsuperman_superman_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 200
+        width: 98
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES_deathsuperman_superman_26
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 199
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES_deathsuperman_superman_27
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 172
+        width: 37
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES_deathsuperman_superman_28
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 175
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES_deathsuperman_superman_29
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 161
+        width: 56
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES_deathsuperman_superman_30
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 109
+        width: 83
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES_deathsuperman_superman_31
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 109
+        width: 83
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES_deathsuperman_superman_32
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 104
+        width: 93
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES_deathsuperman_superman_33
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 63
+        width: 68
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES_deathsuperman_superman_34
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 67
+        width: 82
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES_deathsuperman_superman_35
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 65
+        width: 106
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES_deathsuperman_superman_36
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 59
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES_deathsuperman_superman_37
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 12
+        width: 71
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES_deathsuperman_superman_38
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 11
+        width: 78
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SNES_deathsuperman_superman_39
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 11
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
